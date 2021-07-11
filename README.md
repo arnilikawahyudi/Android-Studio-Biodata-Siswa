@@ -1,4 +1,4 @@
-# Aplikasi CRUD Android Studio
+# Aplikasi CRUD Sederhana Android Studio
 Source Aplikasi Biodata dengan android studio
 
 
